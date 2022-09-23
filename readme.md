@@ -26,4 +26,4 @@
 
 - How to work with images to make beautiful web pages
 
-## [Live-link]() of the project
+## [Live-link](https://landingpage-of-saas.netlify.app/) of the project
