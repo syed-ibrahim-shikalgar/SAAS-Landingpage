@@ -343,10 +343,11 @@ span {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        width: 15rem;
+        width: 12rem;
     }
 
     .main-footer {
         margin-bottom: 30px;
+        margin-left: -60px;
     }
 }
